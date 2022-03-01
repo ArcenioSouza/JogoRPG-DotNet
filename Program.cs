@@ -4,10 +4,10 @@
       {
          static void Main(string[] args)
          {
-            Knight Arus = new Knight("Arus", 20, "Knight");
-            Wizzard Jenica = new Wizzard("Jenica", 23, "White Wizzard");
-            Ninja Wedge = new Ninja("Wedge", 35, "Ninja");
-            WizzardBlack Topaga = new WizzardBlack("Topaga", 51, "Wizzard Black");
+            Knight Arus = new Knight("Arus", 20, "Knight", 250, 100);
+            Wizzard Jenica = new Wizzard("Jenica", 23, "White Wizzard", 290, 120);
+            Ninja Wedge = new Ninja("Wedge", 35, "Ninja", 500, 230);
+            WizzardBlack Topaga = new WizzardBlack("Topaga", 51, "Wizzard Black", 980, 570);
 
             Console.WriteLine(Arus);
             Console.WriteLine(Arus.Attack());
