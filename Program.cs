@@ -8,9 +8,12 @@
             Wizzard Jenica = new Wizzard("Jenica", 23, "White Wizzard");
 
             Console.WriteLine(Arus);
-            Console.WriteLine(Jenica);
             Console.WriteLine(Arus.Attack());
+            Console.WriteLine(Arus.Attack(7));
+
+            Console.WriteLine(Jenica);            
             Console.WriteLine(Jenica.Attack());
+            Console.WriteLine(Jenica.Attack(2));
             
          }
       }

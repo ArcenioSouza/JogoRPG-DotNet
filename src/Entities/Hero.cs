@@ -15,5 +15,18 @@ namespace JogoRPG_Dotnet.src.Entities
             return this.Name + " " + this.Level + " " + this.HeroType;
         }
 
+        public virtual string Attack(){
+            return this.Name + " fez um ataque...";
+        }
+
+        // Encapsulamento
+        public string Attack(int Bonus){
+            if(Bonus > 6){
+                return this.Name + " fez um super ataque com bonus de " + Bonus;
+            } else {
+                return this.Name + " fez um ataque comum com bonus de " + Bonus;
+            }
+        }
+
     }
 }
