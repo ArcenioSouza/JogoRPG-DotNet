@@ -1,6 +1,6 @@
 namespace JogoRPG_Dotnet.src.Entities
 {
-    public class Hero
+    public abstract class Hero
     {
         public Hero(string Name, int Level, string HeroType){
             this.Name = Name;
@@ -13,10 +13,6 @@ namespace JogoRPG_Dotnet.src.Entities
 
         public override string ToString(){
             return this.Name + " " + this.Level + " " + this.HeroType;
-        }
-
-        public virtual string Attack(){
-            return this.Name + "fez um ataque com a espada";
         }
 
     }

@@ -3,3 +3,13 @@ D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.GeneratedMSBu
 D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.AssemblyInfoInputs.cache
 D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.AssemblyInfo.cs
 D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.csproj.CoreCompileInputs.cache
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\bin\Debug\net6.0\JogoRPG-Dotnet.exe
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\bin\Debug\net6.0\JogoRPG-Dotnet.deps.json
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\bin\Debug\net6.0\JogoRPG-Dotnet.runtimeconfig.json
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\bin\Debug\net6.0\JogoRPG-Dotnet.dll
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\bin\Debug\net6.0\JogoRPG-Dotnet.pdb
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.dll
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\refint\JogoRPG-Dotnet.dll
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.pdb
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\JogoRPG-Dotnet.genruntimeconfig.cache
+D:\ProgramaçãoDEV\JogoRPG-Dotnet\obj\Debug\net6.0\ref\JogoRPG-Dotnet.dll

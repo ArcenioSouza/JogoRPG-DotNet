@@ -4,7 +4,7 @@
       {
          static void Main(string[] args)
          {
-            Hero Arus = new Hero("Arus", 20, "Knight");
+            Knight Arus = new Knight("Arus", 20, "Knight");
             Wizzard Jenica = new Wizzard("Jenica", 23, "White Wizzard");
 
             Console.WriteLine(Arus);
