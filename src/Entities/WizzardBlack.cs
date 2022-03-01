@@ -10,7 +10,7 @@ namespace JogoRPG_Dotnet.src.Entities
 
         //Polimorfismo
         public override string Attack(){
-            return this.Name + " lançou magia";
+            return this.Name + " lançou magia negra";
         }
     }
 }
