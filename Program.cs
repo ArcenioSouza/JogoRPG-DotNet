@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace JogoRPG_Dotnet.src.Entities
+{
+   class Program
+      {
+         static void Main(string[] args)
+         {
+            Hero Arus = new Hero("Arus", 20, "Knight");
+            Wizzard Jenica = new Wizzard("Jenica", 23, "White Wizzard");
+
+            Console.WriteLine(Arus);
+            Console.WriteLine(Jenica);
+            Console.WriteLine(Arus.Attack());
+            Console.WriteLine(Jenica.Attack());
+            
+         }
+      }
+}

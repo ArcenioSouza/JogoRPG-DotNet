@@ -1,4 +1,4 @@
-namespace RPG_com_C.src.Entities
+namespace JogoRPG_Dotnet.src.Entities
 {
     public class Hero
     {
