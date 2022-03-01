@@ -1,6 +1,7 @@
 # Jogo RPG com .Net em C#
 
-Esse é um app do tipo console feito com Dotnet que cria personagens com seus atributos e executa ações de ataque.
+Esse é um app do tipo console feito com Dotnet que cria personagens com seus atributos e executa ações de ataque e defesa.
+![Imagem final fantasy](./src/utils/img/final-fantasy.png)
 
 # Objetivos
 
@@ -18,7 +19,7 @@ Esse é um app do tipo console feito com Dotnet que cria personagens com seus at
 
 - [x] Aprender boas prática no desenvolvimento de sistemas em C#.
 
-# implementações
+# Implementações
 
  - Duas classes (Ninja e WizzardBlack);
 
